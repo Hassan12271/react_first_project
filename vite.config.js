@@ -9,5 +9,4 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: '/react_first_project/',
-  
 })
